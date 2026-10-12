@@ -125,13 +125,7 @@ print(decoded.Volume)
 
 **Note:** These helpers encode and decode JSON only. They do not save settings across sessions. Persistent saving requires a server-side DataStore implementation in your own experience.
 
-## ⚠️ Notes
 
-- Use this library in your own Roblox experiences and test it in Roblox Studio.
-- The library returns a table; load it as a `ModuleScript` with `require()`.
-- The dropdown currently advances through options when clicked.
-- The color picker cycles through preset colors; it is not a free-form RGB picker.
-- Test keyboard and touch behavior before publishing.
 
 ## 👤 Credits
 
