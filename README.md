@@ -16,20 +16,9 @@ A reusable Roblox Lua GUI library created by **CATJack.gg** for building interfa
 - Toast notifications
 - JSON settings encode/decode helpers
 
-## 📦 Repository
 
-- **GitHub:** https://github.com/CatJackop/CATHUBGUI-
-- **Raw source:** https://raw.githubusercontent.com/CatJackop/CATHUBGUI-/refs/heads/main/CAT_HUB_Library.lua
+- **Raw source:** ```lua https://raw.githubusercontent.com/CatJackop/CATHUBGUI-/refs/heads/main/CAT_HUB_Library.lua```
 
-## 🛠️ Installation
-
-1. Open your experience in Roblox Studio.
-2. In `ReplicatedStorage`, insert a `ModuleScript`.
-3. Name it `CAT_HUB_Library`.
-4. Paste the contents of `CAT_HUB_Library.lua` into the ModuleScript.
-5. In `StarterPlayer > StarterPlayerScripts`, insert a `LocalScript`.
-6. Paste the example below into the LocalScript.
-7. Press **Play** to test the GUI.
 
 ## 🚀 Quick Start
 
