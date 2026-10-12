@@ -1,9 +1,6 @@
 --[[
     CAT HUB Library
-    Reusable UI library for your own Roblox experiences.
-    Put this ModuleScript in ReplicatedStorage as "CAT_HUB_Library".
-    This library is UI-only: connect callbacks to your own game's systems.
-]]
+    ]]--
 
 local CAT = {}
 CAT.__index = CAT
