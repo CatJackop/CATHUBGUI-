@@ -1,4 +1,4 @@
-# 🐱 CAT HUB Library
+#  CAT HUB Library
 
 A reusable Roblox Lua GUI library created by **CATJack.gg** for building interfaces in your own Roblox experiences.
 
@@ -17,8 +17,9 @@ A reusable Roblox Lua GUI library created by **CATJack.gg** for building interfa
 - JSON settings encode/decode helpers
 
 
-- **Raw source:** ```lua https://raw.githubusercontent.com/CatJackop/CATHUBGUI-/refs/heads/main/CAT_HUB_Library.lua```
-
+```luau 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CatJackop/CATHUBGUI-/refs/heads/main/CAT_HUB_Library.lua"))() 
+```
 
 ## 🚀 Quick Start
 
